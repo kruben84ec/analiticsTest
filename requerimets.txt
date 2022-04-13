@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+itertools
+missingno
+openpyxl
+sklearn
+mlxtend
